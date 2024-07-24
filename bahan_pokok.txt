@@ -1,0 +1,2 @@
+Nama: Telor Ayam Ras, Harga: 26851, Satuan: kg
+Nama: Minyak, Harga: 12, Satuan: liter
